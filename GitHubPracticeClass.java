@@ -23,6 +23,7 @@ public class GitHubPracticeClass {
       public void Kbrom_Mehari(){
         System.out.println("I am Kbrom Mehari");
     }
-    public void hermela_teklay(){
-        System.out.println("I am hermela teklay ");
+}
+public void hermela_teklay(){
+        System.out.println(" welcome to the github practice");
 }
