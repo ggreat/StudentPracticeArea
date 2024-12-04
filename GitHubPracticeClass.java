@@ -20,9 +20,7 @@ public class GitHubPracticeClass {
       public void filmonKahsay(){
         System.out.println("Well Come our instructor");
     }
-      public void Kbrom_Mehari(){
-        System.out.println("I am Kbrom Mehari");
-    }
+
     public void abrham(){
       System.out.println("I am abrham");
   }
