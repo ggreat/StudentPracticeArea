@@ -20,4 +20,7 @@ public class GitHubPracticeClass {
       public void filmonKahsay(){
         System.out.println("Well Come our instructor");
     }
+       public void hagosfila(){
+        System.out.println("Well Come our instructor");
+    }
 }
