@@ -26,4 +26,7 @@ public class GitHubPracticeClass {
  public void akberet_gebretnsae(){
         System.out.println("I am Akberet Gebretnsae");
     }
+ public void Awet_araya(){
+        System.out.println("I am Awet");
+    }
 }
